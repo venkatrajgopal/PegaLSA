@@ -1,0 +1,21 @@
+Exploring Blueprint
+
+
+Main features:
+
+1. Adding application context
+2. Adding requirements so that workflows will be created based on that
+3. New casetype design and data model design will be created. They will be customizable.
+4. Ability to add in new personas.
+5. Summary page where we will be able to download the blueprint as well as the PDF file consolidating whatever generated.
+
+Additional features:
+
+1. Ability to add supporting assets – requirement documents, legacy application media, 
+data schema and integrations – different format – DDL, OpenAPI
+Process diagrams – bpmn , jpg or jpeg
+Code analysis document – AWS Transform, Google MAT
+Additional assets like blueprint
+
+
+
